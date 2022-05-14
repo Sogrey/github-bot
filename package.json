@@ -1,0 +1,19 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "github bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sogrey/github-bot.git"
+  },
+  "author": "Sogrey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sogrey/github-bot/issues"
+  },
+  "homepage": "https://github.com/Sogrey/github-bot#readme"
+}
