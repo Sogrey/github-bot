@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "description": "A Probot app",
-  "author": "sogrey <suzhaoheng2006@163.com>",
-  "license": "ISC",
+  "author": "sogrey",
+  "license": "MIT",
   "homepage": "https://github.com/Sogrey/github-bot",
   "keywords": [
     "probot",
@@ -21,7 +21,7 @@
   "devDependencies": {
     "jest": "^26.6.3",
     "nock": "^13.0.5",
-    "smee-client": "^1.2.2"
+    "smee-client": "^1.2.3"
   },
   "engines": {
     "node": ">= 10.13.0"
